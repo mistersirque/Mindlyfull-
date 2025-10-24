@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@radix-ui/react-dialog": "latest",
+    "@radix-ui/react-label": "latest",
+    "@radix-ui/react-slider": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "latest",
+    "lucide-react": "^0.454.0",
+    "next": "15.5.3",
+    "react": "19.1.1",
+    "react-colorful": "latest",
+    "react-dom": "19.1.1",
+    "recharts": "latest",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "tw-animate-css": "latest",
+    "uuid": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "19.1.13",
+    "@types/react-dom": "19.1.9",
+    "postcss": "^8.5",
+    "tailwindcss": "4.1.13",
+    "typescript": "^5"
+  }
+}
